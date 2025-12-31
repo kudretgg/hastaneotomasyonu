@@ -2,10 +2,10 @@
 >Bu projenin temel amacı, bir hastanede gerçekleşen temel hasta kabul işlemlerinin (hasta kaydı, hasta sorgulama, taburcu işlemleri vb.) dijital ortamda yönetilmesini sağlayan masaüstü bir yazılım geliştirmektir.
 ## İÇİNDEKİLER 
 - [ÖZELLİKLER](#ÖZELLİKLER)  
-- [KURULUM](#kurulum)  
-- [KULLANIM](#kullanım)  
-- [PROJE SAHİBİ](#proje-sahibi)
-- [LİSANS](#Lisans)
+- [KURULUM](#KURULUM)  
+- [KULLANIM](#KULLANIM)  
+- [PROJE SAHİBİ](#PROJE-SAHİBİ)
+- [LİSANS](#LİSANS)
 ## ÖZELLİKLER
 - Hasta kayıt ve silme işlemleri
 - Hastaların listelenmesi ve detaylı görüntülenmesi
