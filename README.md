@@ -1,5 +1,8 @@
 ## HASTANE OTOMASYONU
 >Bu projenin temel amacı, bir hastanede gerçekleşen temel hasta kabul işlemlerinin (hasta kaydı, hasta sorgulama, taburcu işlemleri vb.) dijital ortamda yönetilmesini sağlayan masaüstü bir yazılım geliştirmektir.
+
+## PROJE TANITIMI
+https://drive.google.com/file/d/1L_tcF0WqPHFuGBLhrw_jGNlehvmoOVXW/view?usp=sharing
 ## İÇİNDEKİLER 
 - [ÖZELLİKLER](#ÖZELLİKLER)  
 - [KURULUM](#KURULUM)  
